@@ -10,5 +10,6 @@
     constructor(data:Date, valor:Number,  idUsuarioOrigem:Number, idUsuarioDestino:Number, ChavaPixDestino:String, Sucesso:Boolean){
 
         this.data = data;
+        this.valor = valor
         
     }
